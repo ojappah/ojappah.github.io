@@ -1,11 +1,11 @@
 # Site settings
-author: generous-vector-9581
-title: 
+author: OJ Jappah
+title: My First Portfolio Project
 header-img: img/home-bg.png
 email: ojappah@gmail.com
-copyright_name: generous-vector-9581
+copyright_name: OJ Jappah
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Friend Generator CLI Data Gem
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ojappah
