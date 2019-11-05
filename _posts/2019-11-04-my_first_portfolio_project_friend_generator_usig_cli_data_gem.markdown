@@ -70,16 +70,16 @@ The Friend class allows us to grab data from the websites.
 
 Output
 
-![](http://www.github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
+![]((http://github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
 
-![](http://www.github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
+![]((http://github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
 
 My short Video
 
-[https://youtu.be/1eipsbi4lA0](http://)
+[http://youtu.be/1eipsbi4lA0](http://)
 
 
-Thank you for reading. 
+Thank you for reading my blog.
 
 
 
