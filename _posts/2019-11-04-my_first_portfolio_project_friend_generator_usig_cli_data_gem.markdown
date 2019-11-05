@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My First Portfolio Project: Friend Generator usig CLI Data gem"
+title:      "My First Portfolio Project: Friend Generator using CLI Data gem"
 date:       2019-11-05 01:20:32 +0000
 permalink:  my_first_portfolio_project_friend_generator_usig_cli_data_gem
 ---
@@ -50,7 +50,7 @@ FriendGenerator::CLI.new.call
 
 **Step 4**: File requirements
 
-![](https://github.com/ojappah/ojappah.github.io/blob/master/img/1.PNG)
+![](http://github.com/ojappah/ojappah.github.io/blob/master/img/1.PNG)
 
 
 **Step 5**: Explain what it is doing.
@@ -70,9 +70,9 @@ The Friend class allows us to grab data from the websites.
 
 Output
 
-![](https://github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
+![](http://github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
 
-![](https://github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
+![](http://github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
 
 My short Video
 
