@@ -50,7 +50,7 @@ FriendGenerator::CLI.new.call
 
 **Step 4**: File requirements
 
-![](http://github.com/ojappah/ojappah.github.io/blob/master/img/1.PNG)
+![](http://www.github.com/ojappah/ojappah.github.io/blob/master/img/1.PNG)
 
 
 **Step 5**: Explain what it is doing.
@@ -70,9 +70,9 @@ The Friend class allows us to grab data from the websites.
 
 Output
 
-![](http://github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
+![](http://www.github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
 
-![](http://github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
+![](http://www.github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
 
 My short Video
 
