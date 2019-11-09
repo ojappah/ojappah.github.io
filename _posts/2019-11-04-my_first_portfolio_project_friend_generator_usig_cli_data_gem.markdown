@@ -66,17 +66,17 @@ CLI class is a class controller that interacts with the user.  Inside of this co
 
 The Friend class allows us to grab data from the websites.
 
-![test](http://github.com/ojappah/ojappah.github.io/blob/master/img/image.png)
+![output1](http://github.com/ojappah/ojappah.github.io/blob/master/img/image.png)
 
 Output
 
-![test](https://github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
+![output2](http://github.com/ojappah/ojappah.github.io/blob/master/img/2.PNG)
 
-![test](https://github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
+![output3](http://github.com/ojappah/ojappah.github.io/blob/master/img/3.PNG)
 
 My short Video
 
-[My_short_video](http://youtu.be/1eipsbi4lA0)
+[Click here](http://youtu.be/1eipsbi4lA0)
 
 
 Thank you for reading. 
