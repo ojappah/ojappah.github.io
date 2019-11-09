@@ -66,11 +66,11 @@ CLI class is a class controller that interacts with the user.  Inside of this co
 
 The Friend class allows us to grab data from the websites.
 
-![output1](http://https://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/image.png)
+![output1](http://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/image.png)
 
 Output
 
-![output2](http://https://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/2.PNG)
+![output2](http://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/2.PNG)
 
 ![output3](http://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/3.PNG)
 
