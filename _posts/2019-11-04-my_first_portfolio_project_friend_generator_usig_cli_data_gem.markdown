@@ -50,7 +50,7 @@ FriendGenerator::CLI.new.call
 
 **Step 4**: File requirements
 
-![image](https://https://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/1.PNG)
+![image](https://raw.githubusercontent.com/ojappah/ojappah.github.io/master/img/1.PNG)
 
 
 **Step 5**: Explain what it is doing.
